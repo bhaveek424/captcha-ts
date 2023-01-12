@@ -1,0 +1,12 @@
+body * {
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+body {
+  background: linear-gradient(
+    rgba(196, 210, 237, 0.8),
+    rgba(246, 247, 249, 0.8)
+  );
+  background-size: cover;
+  justify-content: center;
+}
